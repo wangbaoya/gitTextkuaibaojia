@@ -64,6 +64,8 @@
     [self creatmyscroview];
     [self wbyUpTextApp];
     
+    
+    NSLog(@"===============dianjishijian");
   }
 
 #pragma mark===点击五个热门
